@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/logincolor"
+    tools:context=".MainFragment">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Ну вот!И Вы в Хопре!!!"
+        android:textSize="30dp"
+        android:padding="36dp"
+        android:gravity="center"
+        android:layout_marginBottom="32dp"
+        android:backgroundTint="@color/white"
+        android:textColor="@color/white"
+
+        />
+
+</FrameLayout>

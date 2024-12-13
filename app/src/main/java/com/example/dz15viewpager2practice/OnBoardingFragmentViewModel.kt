@@ -12,20 +12,20 @@ class OnBoardingFragmentViewModel(
     companion object{
         val viewPagerList = mutableListOf(
             OnBoardingFragmentViewModel(
-                "Ожидание",
-                "Васильев К.",
+                "От Чингисхана до Мамая",
+                "Банк Империал - Сохраняя традиции",
                 (R.drawable.ojidanie),
                 true
             ),
             OnBoardingFragmentViewModel(
-                "Вождь",
-                "Васильев К.",
+                "Надежное вложение средств",
+                "Гарантии АСВ",
                 (R.drawable.vojd),
                 true
             ),
             OnBoardingFragmentViewModel(
-                "Князь",
-                "Васильев К.",
+                "Банк Империал",
+                "Приглашаем к сотрудничеству",
                 (R.drawable.kniaz),
                 false
             )
